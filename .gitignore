@@ -61,6 +61,7 @@ build/
 *.obj
 *.pch
 *.pdb
+sqlite3.db
 *.pgc
 *.pgd
 *.rsp
